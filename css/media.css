@@ -72,6 +72,13 @@
 }
 
 
+@media screen and (max-width: 421px) {
+  .box-small p {
+    width: 120px;
+    font-size: 80%;
+  }
+
+}
 
 @media screen and (max-width: 280px) {
   header {
@@ -120,6 +127,4 @@
     font-size: 70%;
     text-align: center;
   }
-
-
 }
